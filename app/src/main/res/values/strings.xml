@@ -1,0 +1,16 @@
+<resources>
+   <string name="app_name">CodingAPiDemo</string>
+   <string name="bluetooth_printer">蓝牙热敏小票打印机</string>
+   <string name="print_test">打印机测试</string>
+   <string name="logger">日志收集</string>
+   <string name="write_logger">写入日志</string>
+   <string name="upload_logger">上传日志</string>
+   <string name="debug_logger">调试日志</string>
+    <string name="image_load">图片加载</string>
+   <string name="normal_image">普通图片</string>
+   <string name="circle_image">圆形图片</string>
+   <string name="round_image">圆角图片</string>
+   <string name="view_image">普通 View 图片</string>
+   <string name="auto_image">自适应图片</string>
+   <string name="download">下载图片</string>
+</resources>
