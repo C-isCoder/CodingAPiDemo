@@ -1,2 +1,2 @@
 # CodingAPiDemo
-🤒 CodingAPI base library demo.
+🤒 CodingAPI android developer kit demo.
